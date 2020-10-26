@@ -8,7 +8,7 @@
         }
     },
     "SMSConnection": {
-        "ConnectionName": "Server=DESKTOP_PQ07RO0; Database=SMS_NEW;Trusted_Connection=True"
+    "ConnectionName":  Server=DESKTOP-PQ07RO0; Database=SMS_NEW;Trusted_Connection=True
     },
     "AllowedHosts": "*"
     
