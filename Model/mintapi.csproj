@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.7" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.7" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.2" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="3.1.7" />
+    <Content Include="Data\DataContext.cs" />
+    <Content Include="Data\IStudentManagementRepository.cs" />
+    <Content Include="Model\Department.cs" />
+    <Content Include="Data\DepartmentRepository.cs" />
+    <Content Include="Model\Course.cs" />
+    <Content Include="Model\Faculty.cs" />
+    <Content Include="Model\Grade.cs" />
+    <Content Include="Model\Semester.cs" />
+    <Content Include="Properties\launchSettings.json" />
+    <Content Include="appsettings.json" />
+    <Content Include="Model\Student.cs" />
+    <Content Include="Startup.cs" />
+    <Content Include="Data\StudentRepository.cs" />
+    <Content Include="Controllers\StudentController.cs" />
+    <Content Include="Program.cs" />
+    <Content Include="project.nuget.cache" />
+    <Content Include="project.assets.json" />
+    <Content Include="mintapi.csproj.nuget.g.targets.xml" />
+    <Content Include="mintapi.csproj.nuget.g.props" />
+    <Content Include="mintapi.csproj.nuget.dgspec.json" />
+    <Content Include=".NETCoreApp,Version=v3.1.AssemblyAttributes.cs" />
+    <Content Include="mintapi.AssemblyInfo.cs" />
+    <Content Include="mintapi.AssemblyInfoInputs.cache" />
+    <Content Include="mintapi.csproj.CoreCompileInputs.cache" />
+    <Content Include="mintapi.csproj.FileListAbsolute.txt" />
+    <Content Include="project.razor.json" />
+    <Content Include="tasks.json" />
+    <Content Include="launch.json" />
+    <Content Include="appsettings.Development.json" />
+    <Content Include="launchSettings.json" />
+    <Content Include="obj\Debug\netcoreapp3.1\mintapi.AssemblyInfo.cs" />
+    <Content Include="DataContext.cs" />
+    <Content Include="Course.cs" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,5 @@
+C:\Users\User\mintapi\obj\Debug\netcoreapp3.1\mintapi.csprojAssemblyReference.cache
+C:\Users\User\mintapi\obj\Debug\netcoreapp3.1\mintapi.AssemblyInfoInputs.cache
+C:\Users\User\mintapi\obj\Debug\netcoreapp3.1\mintapi.AssemblyInfo.cs
+C:\Users\User\mintapi\obj\Debug\netcoreapp3.1\mintapi.csproj.CoreCompileInputs.cache
+C:\Users\User\mintapi\obj\Debug\netcoreapp3.1\mintapi.MvcApplicationPartsAssemblyInfo.cache
